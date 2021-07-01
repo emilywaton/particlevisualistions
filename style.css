@@ -91,7 +91,7 @@ body{
 #showcase .button{
   font-size: 20px;
   text-decoration: none;
-  color: orangered;
+  color: #ccff00;
   border: white 1px solid;
   padding:9px 9px;
   border-radius: 100px;
@@ -99,6 +99,6 @@ body{
 }
 
 #showcase .button:hover{
-  background: orangered;
-  color: white;
+  background: #ccff00;
+  color:black;
 }
